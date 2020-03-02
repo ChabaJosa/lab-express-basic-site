@@ -1,0 +1,12 @@
+.steveBackground{
+    background-image: url("/views/stevejobs.jpg");
+    background-size: cover;
+}
+
+html{
+   background-color: whitesmoke;
+}
+
+.card{
+    background-color: whitesmoke;
+}
